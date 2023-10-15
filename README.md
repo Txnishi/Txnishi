@@ -1,6 +1,7 @@
-### Hey!! XD It's me Tanishi
+### Hey!  XD
 
 
--  I’m currently learning Data Structure and Algorithm in C++, JavaScript, React.
+
+
 
 
